@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1229767909, guid: bfb06eec059d3a345ac43927a4389437, type: 3}
+  m_Name: Input Keys
+  m_EditorClassIdentifier: 
+  data:
+    name: Input Keys
+    byteData: 
+    xmlData: '<xmldata>
+
+      <_subarrays>
+
+      <assets>
+
+      <0>
+
+      <_asset
+      asset="0" />
+
+      </0>
+
+      <1>
+
+      <_asset asset="1" />
+
+      </1>
+
+      <2>
+
+      <_asset
+      asset="2" />
+
+      </2>
+
+      <3>
+
+      <_asset asset="3" />
+
+      </3>
+
+      <4>
+
+      <_asset
+      asset="4" />
+
+      </4>
+
+      <5>
+
+      <_asset asset="5" />
+
+      </5>
+
+      </assets>
+
+      </_subarrays>
+
+      </xmldata>
+
+'
+    lookUp:
+      assets:
+      - {fileID: 11400000, guid: 86574c3cf0af8314f9c1ce083c408d11, type: 2}
+      - {fileID: 11400000, guid: 82cc25ba01b75b649997ed9a14a0b70d, type: 2}
+      - {fileID: 11400000, guid: bbd83fc4dc601a54e87c119d301bcb1d, type: 2}
+      - {fileID: 11400000, guid: 9bff36047eadb8f468df9201d451e00b, type: 2}
+      - {fileID: 11400000, guid: b9a5a4be972edde45817959078606b7c, type: 2}
+      - {fileID: 11400000, guid: 89ff9bd2762dae741848d7edf8c297b1, type: 2}
+    encrypted: 0

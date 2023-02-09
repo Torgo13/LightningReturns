@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1229767909, guid: bfb06eec059d3a345ac43927a4389437, type: 3}
+  m_Name: UI System Settings
+  m_EditorClassIdentifier: 
+  data:
+    name: UI System Settings
+    byteData: 
+    xmlData: '<xmldata>
+
+      <_floatarrays>
+
+      <defaultScreen 1920 1080 />
+
+      </_floatarrays>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.UI.NoneUISystem]]></type>
+
+      </_string>
+
+      <defaultMaskMaterial>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </defaultMaskMaterial>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.UI.NoneUISystem]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </xmldata>
+
+'
+    lookUp:
+      assets: []
+    encrypted: 0

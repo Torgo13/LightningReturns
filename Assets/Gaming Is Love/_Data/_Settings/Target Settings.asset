@@ -1,0 +1,413 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1229767909, guid: bfb06eec059d3a345ac43927a4389437, type: 3}
+  m_Name: Target Settings
+  m_EditorClassIdentifier: 
+  data:
+    name: Target Settings
+    byteData: 
+    xmlData: '<xmldata targetLayerMask="-1" >
+
+      <_float targetRayDistance="100"
+      />
+
+      <_bool useTargetMenu="True" autoOnlySingleTarget="False" autoOnlyGroupTarget="False"
+      rotateToTarget="False" rotateToTargetGridRotation="False" rotateToTargetCursorOver="False"
+      resetTargetRangeToggle="False" resetTargetTypeToggle="False" useDirectionalSelection="False"
+      directionalSelectionBlockUIBoxInput="True" targetAcceptOnlySelected="False"
+      targetUseGridCell="False" targetCursorOverSelection="False" targetCursorOverMouseMoveOnly="False"
+      showTargetConfirmation="False" />
+
+      <targetNextKey>
+
+      <inputKey>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </inputKey>
+
+      <audio
+      type="0" channel="0" >
+
+      <_float volume="1" />
+
+      </audio>
+
+      </targetNextKey>
+
+      <targetPreviousKey>
+
+      <inputKey>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </inputKey>
+
+      <audio
+      type="0" channel="0" >
+
+      <_float volume="1" />
+
+      </audio>
+
+      </targetPreviousKey>
+
+      <targetNearestKey>
+
+      <inputKey>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </inputKey>
+
+      <audio
+      type="0" channel="0" >
+
+      <_float volume="1" />
+
+      </audio>
+
+      </targetNearestKey>
+
+      <targetRangeKey>
+
+      <inputKey>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </inputKey>
+
+      <audio
+      type="0" channel="0" >
+
+      <_float volume="1" />
+
+      </audio>
+
+      </targetRangeKey>
+
+      <targetTypeKey>
+
+      <inputKey>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </inputKey>
+
+      <audio
+      type="0" channel="0" >
+
+      <_float volume="1" />
+
+      </audio>
+
+      </targetTypeKey>
+
+      <targetHighlight>
+
+      <_subarrays>
+
+      <highlight>
+
+      </highlight>
+
+      </_subarrays>
+
+      </targetHighlight>
+
+      <targetMouseTouch
+      type="0" mouseClick="0" fingerCount="1" clickCount="1" mode="0" >
+
+      <_float
+      timeout="0" />
+
+      <_bool allModes="False" pressedCursorOver="False" />
+
+      </targetMouseTouch>
+
+      <defaultTargetRaycast
+      layerMask="-1" rayOrigin="0" >
+
+      <_float distance="100" inputCursorSpeed="3"
+      />
+
+      <_bool ignoreUser="False" clampToUseRange="True" blockPlayerControl="False"
+      blockCameraControl="False" rotateToRaycast="False" autoTarget="True" useMousePosition="False"
+      mouseOnlyPlayer="True" useRayCursor="False" useInputKeys="False" useUserHighlight="False"
+      />
+
+      <_floatarrays>
+
+      <offset 0 0 0 />
+
+      <rayDirection 0 0 1
+      />
+
+      <targetOffset 0 0 0 />
+
+      <screenOffset 0 0 0 />
+
+      <rayCursorOffset
+      0 0 0 />
+
+      </_floatarrays>
+
+      <_string>
+
+      <pathToChild><![CDATA[]]></pathToChild>
+
+      <pathToTarget><![CDATA[]]></pathToTarget>
+
+      </_string>
+
+      <mouseTouch
+      type="0" mouseClick="0" fingerCount="1" clickCount="1" mode="0" >
+
+      <_float
+      timeout="0" />
+
+      <_bool allModes="False" pressedCursorOver="False" />
+
+      </mouseTouch>
+
+      <cursorChange
+      cursorMode="0" >
+
+      <_floatarrays>
+
+      <hotSpot 0 0 />
+
+      </_floatarrays>
+
+      <texture>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </texture>
+
+      </cursorChange>
+
+      </defaultTargetRaycast>
+
+      <targetInformationLayout>
+
+      <_bool
+      useTitle="False" ownStatusChangeDisplay="False" />
+
+      <content>
+
+      <mainContent>
+
+      <_bool
+      addHUD="False" />
+
+      <content exportID="-1" >
+
+      <_bool export="True"
+      />
+
+      <_string>
+
+      <translationNote><![CDATA[]]></translationNote>
+
+      </_string>
+
+      <data>
+
+      <text>
+
+      <_string>
+
+      <text><![CDATA[<name>
+
+      <statuschanges>]]></text>
+
+      </_string>
+
+      </text>
+
+      <image>
+
+      <sprite>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </sprite>
+
+      <texture>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </texture>
+
+      </image>
+
+      </data>
+
+      <_subarrays>
+
+      <language>
+
+      </language>
+
+      </_subarrays>
+
+      </content>
+
+      </mainContent>
+
+      <_subarrays>
+
+      <additionalContent>
+
+      </additionalContent>
+
+      </_subarrays>
+
+      </content>
+
+      </targetInformationLayout>
+
+      <_subarrays>
+
+      <groupTargetSelection>
+
+      </groupTargetSelection>
+
+      <individualTargetSelection>
+
+      </individualTargetSelection>
+
+      <targetInformation>
+
+      </targetInformation>
+
+      </_subarrays>
+
+      </xmldata>
+
+'
+    lookUp:
+      assets: []
+    encrypted: 0

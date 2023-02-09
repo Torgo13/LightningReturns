@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1495166075, guid: bfb06eec059d3a345ac43927a4389437, type: 3}
+  m_Name: 0 - Default
+  m_EditorClassIdentifier: 
+  data:
+    name: settings
+    byteData: 
+    xmlData: '<xmldata realID="0" >
+
+      <_float fieldOfView="40" />
+
+      <_bool
+      setPosition="True" localSpace="False" ignoreScale="False" setRotation="True"
+      rotationIsOffset="False" lookAt="False" setFoV="False" />
+
+      <_floatarrays>
+
+      <position
+      0 0 0 />
+
+      <rotation 0 0 0 />
+
+      </_floatarrays>
+
+      <_string>
+
+      <name><![CDATA[Default]]></name>
+
+      <childName><![CDATA[]]></childName>
+
+      <guid><![CDATA[51adf195-ff55-45b3-837c-2c618d9cb4ba]]></guid>
+
+      </_string>
+
+      <ignoreRotation>
+
+      <_bool
+      x="False" y="False" z="False" />
+
+      </ignoreRotation>
+
+      </xmldata>
+
+'
+    lookUp:
+      assets: []
+    encrypted: 0
+  sortAtEnd: 0
